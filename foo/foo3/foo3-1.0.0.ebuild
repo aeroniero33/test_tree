@@ -40,7 +40,7 @@ HOMEPAGE="http://foo.example.org/"
 
 # Point to any required sources; these will be automatically downloaded by
 # Portage.
-SRC_URI="ftp://foo.example.org/${P}.tar.gz"
+SRC_URI="http://www.bzip.org/1.0.6/bzip2-1.0.6.tar.gz"
 
 
 # License of the package.  This must match the name of file(s) in
